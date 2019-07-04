@@ -4,7 +4,7 @@ apples
 bananas
 yogurt
 milk
-bread
+wheat bread
 cereal
 eggs
 bacon
@@ -13,7 +13,7 @@ grapes
 lemons
 lettuce
 brown rice
-soup
+spicy soup
 ice cream
 brown sugar
 flour
